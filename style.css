@@ -1,0 +1,62 @@
+.perant {
+    background-color: beige;
+    height: 400px;
+    width: 700px; 
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.Student {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.Age-1 {
+    background-color: darkgray;
+    height: 100px;
+    width: 400px;
+    margin-left: 90px;
+    display:flex;
+}
+
+/* .age-1{
+    background-color: darkgrey;
+    margin-left: ;
+} */
+
+.age {
+    margin-left: 5px;
+    width: 100px;
+    cursor: pointer;
+    margin-top: 6px;
+}
+
+.name {
+    width: 100px;
+    cursor: pointer;
+}
+
+.Marks {
+    width: 90px;
+}
+
+.Stu {
+    margin-top: 20px;
+    margin-left: 120px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.inp{
+    margin-left: 20px;
+}
+
+.add {
+    margin-left: 10px;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}
